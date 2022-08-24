@@ -1,4 +1,3 @@
-//recode put gei
 
 import os, requests, io, time, random, bs4, sys, datetime, re, base64, urllib.parse, json, threading, cursor
 from pystyle import *
